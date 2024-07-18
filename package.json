@@ -1,4 +1,7 @@
 {
+  "name": "hairday",
+  "description": "Aplicação Web de agendamento para corte de cabelo. Este é um trabalho prático da MBA Full Stack da Rocketseat.",
+  "author": "Feito por Gustavo Prado, guiado pelo professor Rodrigo Gonçalves da Rocketseat",
   "scripts": {
     "server": "json-server --watch server.json --port 3333"
   },
